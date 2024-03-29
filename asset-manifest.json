@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/recipe-page/static/css/main.a454f23f.css",
-    "main.js": "/recipe-page/static/js/main.f2affc4e.js",
+    "main.css": "/recipe-page/static/css/main.11d7b547.css",
+    "main.js": "/recipe-page/static/js/main.808d7781.js",
     "static/media/image-omelette.jpeg": "/recipe-page/static/media/image-omelette.98c8ed59c5ae707e58ea.jpeg",
     "index.html": "/recipe-page/index.html",
-    "main.a454f23f.css.map": "/recipe-page/static/css/main.a454f23f.css.map",
-    "main.f2affc4e.js.map": "/recipe-page/static/js/main.f2affc4e.js.map"
+    "main.11d7b547.css.map": "/recipe-page/static/css/main.11d7b547.css.map",
+    "main.808d7781.js.map": "/recipe-page/static/js/main.808d7781.js.map"
   },
   "entrypoints": [
-    "static/css/main.a454f23f.css",
-    "static/js/main.f2affc4e.js"
+    "static/css/main.11d7b547.css",
+    "static/js/main.808d7781.js"
   ]
 }
